@@ -1,0 +1,14 @@
+C:\Users\sta11\source\repos\OrigenceInterview\bin\Debug\net8.0\OrigenceInterview.exe
+C:\Users\sta11\source\repos\OrigenceInterview\bin\Debug\net8.0\OrigenceInterview.deps.json
+C:\Users\sta11\source\repos\OrigenceInterview\bin\Debug\net8.0\OrigenceInterview.runtimeconfig.json
+C:\Users\sta11\source\repos\OrigenceInterview\bin\Debug\net8.0\OrigenceInterview.dll
+C:\Users\sta11\source\repos\OrigenceInterview\bin\Debug\net8.0\OrigenceInterview.pdb
+C:\Users\sta11\source\repos\OrigenceInterview\obj\Debug\net8.0\OrigenceInterview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sta11\source\repos\OrigenceInterview\obj\Debug\net8.0\OrigenceInterview.AssemblyInfoInputs.cache
+C:\Users\sta11\source\repos\OrigenceInterview\obj\Debug\net8.0\OrigenceInterview.AssemblyInfo.cs
+C:\Users\sta11\source\repos\OrigenceInterview\obj\Debug\net8.0\OrigenceInterview.csproj.CoreCompileInputs.cache
+C:\Users\sta11\source\repos\OrigenceInterview\obj\Debug\net8.0\OrigenceInterview.dll
+C:\Users\sta11\source\repos\OrigenceInterview\obj\Debug\net8.0\refint\OrigenceInterview.dll
+C:\Users\sta11\source\repos\OrigenceInterview\obj\Debug\net8.0\OrigenceInterview.pdb
+C:\Users\sta11\source\repos\OrigenceInterview\obj\Debug\net8.0\OrigenceInterview.genruntimeconfig.cache
+C:\Users\sta11\source\repos\OrigenceInterview\obj\Debug\net8.0\ref\OrigenceInterview.dll
